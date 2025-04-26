@@ -294,3 +294,4 @@ __pycache__/
 # End of https://www.toptal.com/developers/gitignore/api/aspnetcore,visualstudiocode
 SportsStore/obj/*
 SportsStore/bin/*
+SportsStore.Tests/obj/*
